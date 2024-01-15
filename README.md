@@ -64,6 +64,9 @@ Simply watching video tutorials and reading blogs won't suffice for becoming a s
 
 Now let's dive into roadmap of frontend web development
 
+![image](https://github.com/tac-consulting/tac-frontend-roadmap/assets/56499420/ccfbaa9c-98f3-4c79-9f32-836bd8c72629)
+
+
 # Roadmap for Frontend Development
 
 ```
